@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638304404 source:c:\users\gabri\desktop\projeto integrador fatec 2021\calculadora_pi\functions.c
+	<stdio.h>
+	<math.h>
+	<stdbool.h>
+
+1638302055 source:c:\users\gabri\desktop\projeto integrador fatec 2021\calculadora_pi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	<stdarg.h>
+
