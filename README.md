@@ -1,6 +1,6 @@
 # CalculadoraPI_LingC
 
-Calculadora desenvolvida em linguagem C para o Projeto Integrador da Fatec Artur de Azevedo no 1º Semestre. O projeto foi composto por 4 integrantes onde todos ficaram responsaveis por uma parte do código.
+Calculadora desenvolvida em linguagem C para o Projeto Integrador da Fatec Artur de Azevedo no 1º Semestre. O projeto foi composto por 4 integrantes onde todos ficaram responsáveis por uma parte do código.
 
-Nota. Lembrando que muitos não tinham conhecimento sobre a linguagem pois ela foi realizada conforme as aulas. O projeto pode ser melhorado com mais aprendizado e melhor dividido em partes e funcoes.
+Nota. Lembrando que muitos não tinham conhecimento sobre a linguagem pois ela foi realizada conforme as aulas. O projeto pode ser melhorado com mais aprendizado e melhor dividido em partes e funções.
 
